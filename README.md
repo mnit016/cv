@@ -1,9 +1,9 @@
 # Bùi Đình Tuyên
 
 I am a developer with 3 years of experience in Devops with Azure Cloud.
-Fastly understand the idea and problem to make decision.
+Quickly understand the idea or problem to make decision.
 Solid knowledge on OOP programming, analysis and design.
-Finally, I am eager to learn and develope myself.
+Finally, I am happy to learn and improve myself.
 
 # Experiences
 
@@ -18,7 +18,7 @@ Finally, I am eager to learn and develope myself.
 Participate on developing a CI/CD pipeline to onboard/deploy micro-services from multiple teams to Kubernetes.
 Do Infra support on creation / troubleshooting for whole project.
 Analyze data for monthly reports (Cost, Traffic, Business Activities...)
-As a leader of a small team with 5 members, manage an EventBus System with several application around (RestAPI and FrontEnd)
+As a leader of a small team with 5 members, manage an EventBus System with several applications around (RestAPI and FrontEnd)
 - **Tech stack**:
 Azure Cloud, DevOps, Kubernetes, Spring, Java, RestAPI, Apache Pulsar, Istio, Terraform, Vault, Dynatrace
 
@@ -28,8 +28,8 @@ Azure Cloud, DevOps, Kubernetes, Spring, Java, RestAPI, Apache Pulsar, Istio, Te
 **Project description**: Utilize Azure Cloud to do ETL process.
 - **Team size**: 10
 - **Responsibilities**:
-Developing an ETL pipeline with several applications around to do onboard, validation, transform.
-I also participate developing a CI/CD pipeline to support onboarding new Dataset and Infra creation.
+Developing an ETL pipeline with Spark.
+I also participate developing CI/CD pipeline to support onboarding new Dataset and Infra creation.
 - **Tech stack**: 
 Azure Cloud, Azure Data Factory, Databricks, Apache Spark, Scala, DevOps
 
