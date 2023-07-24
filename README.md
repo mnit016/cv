@@ -30,7 +30,7 @@ A project from USA, building a platform based on Azure Cloud, deploying multiple
 - Also as the leader of a small team with 5 members, manage an EventBus System with several applications around (Spring RestAPI).
 - Daily sync up, Sprint planning with customer.                          
 #### Tech stack:
-`Azure Cloud` `DevOps` `Kubernetes` `Spring` `Java` `RestAPI` `Apache Pulsar` `Istio`,`Terraform` `Vault` `Dynatrace` `Prometheus` `Grafana`
+`Azure Cloud` `DevOps` `Kubernetes` `Spring` `Java` `RestAPI` `Apache Pulsar` `Istio` `Terraform` `Vault` `Dynatrace` `Prometheus` `Grafana`
 
 ### Data Engineer
 `09/2020 – 12/2020`
