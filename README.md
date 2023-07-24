@@ -8,12 +8,13 @@ Finally, I am happy to learn and improve myself.
 # Experiences
 
 ## TMA Solutions
-**Company size:** 4000+ employees
-**Awards:**
-- Star Performer in TMA Solutions - Q4/2022
+#### Company size: 
+- 4000+ employees
+#### Awards:
+- Star Performer in Q4/2022
 
 ###  Azure Devops
-*12/2020 - NOW*   
+*12/2020 - Now*   
    
 **Project description**: A project from USA, building a platform based on Azure Cloud, deploying multiple services relate to Health Care system.
 - **Team size**: 50
@@ -26,7 +27,7 @@ Also as the leader of a small team with 5 members, manage an EventBus System wit
 Azure Cloud, DevOps, Kubernetes, Spring, Java, RestAPI, Apache Pulsar, Istio, Terraform, Vault, Dynatrace, Prometheus, Grafana
 
 ### Data Engineer
-*09/2020– 12/2020*   
+*09/2020 – 12/2020*   
 
 **Project description**: Utilize Azure Cloud to do ETL process.
 - **Team size**: 10
