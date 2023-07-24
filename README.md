@@ -9,6 +9,8 @@ Finally, I am happy to learn and improve myself.
 
 ## TMA Solutions
 **Company size:** 4000+ employees
+**Awards:**
+- Star Performer in TMA Solutions - Q4/2022
 
 ###  Azure Devops
 *12/2020 - NOW*   
@@ -22,7 +24,6 @@ Analyze data for monthly reports (Cost, Traffic, Business Activities...).
 Also as the leader of a small team with 5 members, manage an EventBus System with several applications around (Spring RestAPI).                            
 - **Tech stack**:
 Azure Cloud, DevOps, Kubernetes, Spring, Java, RestAPI, Apache Pulsar, Istio, Terraform, Vault, Dynatrace, Prometheus, Grafana
-- **Awards**: Start Performer in TMA Solutions - Q4/2022
 
 ### Data Engineer
 *09/2020– 12/2020*   
