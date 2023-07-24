@@ -43,7 +43,7 @@ Azure Cloud, Azure Data Factory, Databricks, Apache Spark, Scala, DevOps
 # Education
 ## Nong Lam University
 *09/2016 - 09/2020*
-**Major:** Information Technology
+#### Major: Information Technology
 
 # Contact
 - **Phone number**: (+84) 39 224 9090
