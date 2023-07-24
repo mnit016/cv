@@ -1,13 +1,14 @@
-# Bùi Đình Tuyên
+# Bui Dinh Tuyen
 
-I am a developer with 3 years of experience in Devops with Azure Cloud.
-Quickly understand the idea or problem to make decision.
-Solid knowledge on OOP programming, analysis and design.
+I am a developer with 3 years of experience in DevOps with Azure Cloud.
+Quickly understand the idea or problem to make a decision.
+Solid knowledge of OOP programming, analysis and design.
 Finally, I am happy to learn and improve myself.
 
 # Experiences
 
 ## TMA Solutions
+**Company size:** 4000+ employees
 
 ###  Azure Devops
 *12/2020 - NOW*   
@@ -15,12 +16,13 @@ Finally, I am happy to learn and improve myself.
 **Project description**: A project from USA, building a platform based on Azure Cloud, deploying multiple services relate to Health Care system.
 - **Team size**: 50
 - **Responsibilities**:
-Participate in developing a CI/CD pipeline to onboard/deploy micro-services from multiple teams to Kubernetes. 
-Do Infra support on creation / troubleshooting for whole project. 
+Participate in developing a CI/CD pipeline to onboard/deploy micro-services from multiple teams to Azure Kubernetes Service. 
+Do Infra support creation, troubleshooting for the whole project. 
 Analyze data for monthly reports (Cost, Traffic, Business Activities...). 
-Also as the leader of a small team with 5 members, manage an EventBus System with several applications around (RestAPI and FrontEnd). 
+Also as the leader of a small team with 5 members, manage an EventBus System with several applications around (Spring RestAPI).                            
 - **Tech stack**:
 Azure Cloud, DevOps, Kubernetes, Spring, Java, RestAPI, Apache Pulsar, Istio, Terraform, Vault, Dynatrace, Prometheus, Grafana
+- **Awards**: Start Performer in TMA Solutions - Q4/2022
 
 ### Data Engineer
 *09/2020– 12/2020*   
@@ -29,7 +31,7 @@ Azure Cloud, DevOps, Kubernetes, Spring, Java, RestAPI, Apache Pulsar, Istio, Te
 - **Team size**: 10
 - **Responsibilities**:
 Developing an ETL pipeline with Spark.
-I also participate developing CI/CD pipeline to support onboarding new Dataset and Infra creation.
+I also participate developing the CI/CD pipelines to support onboarding new Dataset and Infra creation.
 - **Tech stack**: 
 Azure Cloud, Azure Data Factory, Databricks, Apache Spark, Scala, DevOps
 
