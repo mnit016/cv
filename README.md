@@ -25,8 +25,8 @@ A project from USA, building a platform based on Azure Cloud, deploying multiple
 #### Team size: 50
 #### Responsibilities:
 - Participate in developing a CI/CD pipeline to onboard/deploy micro-services from multiple teams to Azure Kubernetes Service. 
-- Do Infra support creation, troubleshooting for the whole project. 
-- Analyze data for monthly reports (Cost, Traffic, Business Activities...). 
+- Do Infra support creation, troubleshooting. 
+- Analyze data for monthly reports to customer (Cost, Traffic, Business Activities...). 
 - Also as the leader of a small team with 5 members, manage an EventBus System with several applications around (Spring RestAPI).
 - Daily sync up, Sprint planning with customer.                          
 #### Tech stack:
