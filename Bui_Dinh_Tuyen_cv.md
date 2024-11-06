@@ -1,53 +1,54 @@
 # Bui Dinh Tuyen
 
-I am a developer with almost 4 years of experience in DevOps with Azure Cloud.
-Strongly in designing system. Highly responsibilities on system availability.
-Solid knowledge of OOP programming. Experienced in scripting language (Python/Bash/Shell).
-Finally, I am happy to help and learn.
+I am a developer with 4 years of experience in DevOps, specializing in Azure Cloud.
+I have strongly background in system design and highly responsible for ensuring system availability.
+With solid knowledge of OOP principles and experience in scripting languages (Python, Bash, Shell).
+I'm always eager to help and continuously learn.
 
 # Experiences
 
 ## TMA Solutions
-#### Awards:
-- Star Performer in Q4/2022
 
-###  Devops Engineer (Team Lead)
+###  Devops Engineer
 `02/2024 - now`
    
 #### Project description:
-To provide people an end-to-end system for Semantic Search/Chat. From data collector (Crawler / Upload / Streaming) -> Processing (Semantic Chunking / Embedding) -> Ingest Vector Database.
-Finally output to a Search and ChatBot (using RAG).
+A project includes an Intelligent Search, and a Regression Test Platform:
+- *Intelligent Search Platform:* Offering dedicated Intelligent Search and Bot capabilities per Index. Provides APIs and an embeddable UI that can be quickly integrated into a user's site. Supports data collection from Crawler, File Upload, Streaming, and NiFi. Data will be processed, embedding, and incrementally uploaded to Azure AI Search. The platform implemented a RAG (Retrieval-Augmented Generation) model for Bot functionality, supporting text, vector, and hybrid searching.
+- *Regression Test Platform:* Leverages OpenAI for Test Script Generation from natural language inputs, supporting authentication with only a login URL, username, and password. Capabilities to import, customize commands, select version of test from repositories such as Azure Devops / Github. Provides direct test execution within the portal, utilizing multiple test agents on AKS to support frameworks li_ke Selenium, Playwright, and Cypress across various languages. Offers comprehensive monitoring of test logs, capturing of test execution records, and automated failure reason summarization for streamlined analysis.
 #### Team size: 15
-#### Responsibilities:
-- Planning / Designing / Code Review / Demo / Monitoring
-#### Tech stack:
-`Azure Cloud` `Azure OpenAI` `Azure AI Search` `DevOps` `Kubernetes` `Python` `Bash/Shell script` `Spring` `Java` `RestAPI` `Terraform` `Dynatrace`
 
-###  Devops Engineer (Team Lead)
-`12/2020 - 02/2024`
-   
-#### Project description:
-A project from USA, to provide a platform based on Azure Cloud. People can onboard to our system via self-help portal & quickly deploy their applications to Azure Kubernetes Service
-#### Team size: 5
 #### Responsibilities:
-- Participate in developing CI/CD pipelines template to deploy micro-services to Azure Kubernetes Service. 
-- Do Infra/Production Support (Provision/Troubleshooting)
-- Manage an EventBus System using Apache Pulsar for Data Streaming
-- Do Sprint Planning / Demo
-- Assigment / Code review
-- Data analyze                
+- Planning / Designing / Code Review / Prod Support / Monitoring / Data Analysis
 #### Tech stack:
-`Azure Cloud` `DevOps` `Kubernetes` `Spring` `Java` `RestAPI` `Apache Pulsar` `Istio` `Terraform` `Vault` `Dynatrace` `Prometheus` `Grafana`
+`Azure Cloud` `Azure OpenAI` `Azure AI Search` `DevOps` `Kubernetes` `Apache Pulsar` `Python` `Bash/Shell script` `Spring` `Java` `Terraform` `Dynatrace` `Splunk`
+
+###  Devops Engineer
+`12/2020 - 02/2024`
+
+#### Project description:
+Leverages Apache Pulsar, deployed on Azure Kubernetes Service, to build a real-time data processing pipeline that ingests, processes, and delivers messages at scale with high availability across two regions (Active-Active Replication). Adapts platform user authentication via Azure AD and HashiCorp Vault.
+#### Team size: 5
+
+#### Responsibilities:
+- Develop CI/CD pipelines
+- Develop APIs
+- Infra/Production Support (Provision/Troubleshooting)
+- Participate in Sprint Planning / Demo
+- Code review
+- Data Analysis                
+#### Tech stack:
+`Azure Cloud` `DevOps` `Kubernetes` `Spring` `Java` `RestAPI` `Apache Pulsar` `Istio` `Terraform` `Vault` `Dynatrace` `Prometheus` `Grafana` `Splunk`
 
 ### Data Engineer
 `09/2020 – 12/2020`
 
 #### Project description:
-Utilize Azure Cloud to do ETL process.
+Develop ETL processes on Azure Cloud.
 #### Team size: 4
 #### Responsibilities:
-- Developing an ETL pipeline with Spark.
-- I also participate developing the CI/CD pipelines to support onboarding new Dataset and Infra creation.
+- Developed an ETL pipeline with Apache Spark.
+- Contributed to CI/CD pipeline development for onboarding new Dataset and Infrastructure provisioning.
 #### Tech stack:
 `Azure Cloud` `Azure Data Factory` `Databricks` `Apache Spark` `Scala` `DevOps`
 
@@ -56,7 +57,7 @@ Utilize Azure Cloud to do ETL process.
 
 # Education
 ## Nong Lam University
-#### Major: Information Technology
+#### Bachelor of Information Technology
 *09/2016 - 09/2020*
 
 # Contact
